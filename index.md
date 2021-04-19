@@ -1,39 +1,82 @@
 # Rogomi KT Sessions
 
-## Welcome to GitHub Pages
+## KT Session 1 03/29 - Arventa Connect Part 1
+Vimeo Link: https://vimeo.com/533838221/53d5162f18
+Attendees:
+- John Patrick Teruel
+- Third dela Cruz
+- Ray Castor
+Agenda: 
+- Arventa Connect Architecture
 
-You can use the [editor on GitHub](https://github.com/jpteruel095/rogomi-kt/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## KT Session 2 03/30 - Arventa Connect Part 2
+Vimeo Link: https://vimeo.com/533839291/b764911653
+Attendees:
+- John Patrick Teruel
+- Third dela Cruz
+- Ray Castor
+Agenda:
+  - <Agenda>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## KT Session 3 03/31 - RGMLib Part 1
+Vimeo Link: https://vimeo.com/534644682/5a29d09cdd
+Attendees:
+- John Patrick Teruel
+- Third dela Cruz
+- Ray Castor
+Agenda:
+  - RGM Lib - Source code introduction
 
-### Markdown
+## KT Session 4 04/05 - RGMLib Part 2
+Vimeo Link: https://vimeo.com/534646588/08d76fe687
+Attendees:
+- John Patrick Teruel
+- Third dela Cruz
+- Ray Castor
+Agenda:
+  - RGM Lib - Source code discussion continuation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## KT Session 5 04/06 - Essilor Part 1
+Vimeo Link: https://vimeo.com/534648903/e5dee82a51
+Attendees:
+- John Patrick Teruel
+- Third dela Cruz
+- Ray Castor
+Agenda:
+  - Essilor Source Code Core Introduction
 
-```markdown
-Syntax highlighted code block
+## KT Session 6 04/07 - Essilor Part 2
+Vimeo Link: https://vimeo.com/534650280/e948ac8044
+Attendees:
+- John Patrick Teruel
+- Third dela Cruz
+- Ray Castor
+Agenda:
+  - Essilor RGMLib Integration
 
-# Header 1
-## Header 2
-### Header 3
+## KT Session 7 04/12 - Essilor Part 3
+Vimeo Link: https://vimeo.com/535797133/dbf6307075
+Attendees:
+- John Patrick Teruel
+- Third dela Cruz
+- Ray Castor
+Agenda:
+  - Generic Comments View Controller and Likes View Controller classes
 
-- Bulleted
-- List
+## KT Session 8 04/15 - Essilor Part 4.1
+Vimeo Link: https://vimeo.com/538648707/489117ed0d
+Attendees:
+- John Patrick Teruel
+- Third dela Cruz
+- Ray Castor
+Agenda:
+  - Auth View Controller class and how user is authenticated
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jpteruel095/rogomi-kt/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## KT Session 9 04/15 - Essilor Part 4.2
+Vimeo Link: https://vimeo.com/538650661/c176208b6f
+Attendees:
+- John Patrick Teruel
+- Third dela Cruz
+- Ray Castor
+Agenda:
+  - Pushing the final sprint build to Essilor Azure repository
