@@ -16,7 +16,7 @@ Attendees:
 - Third dela Cruz
 - Ray Castor
 Agenda:
-  - <Agenda>
+- Arventa Core Classes
 
 ## KT Session 3 03/31 - RGMLib Part 1
 Vimeo Link: https://vimeo.com/534644682/5a29d09cdd
@@ -52,7 +52,7 @@ Attendees:
 - Third dela Cruz
 - Ray Castor
 Agenda:
-  - Essilor RGMLib Integration
+- Essilor RGMLib Integration
 
 ## KT Session 7 04/12 - Essilor Part 3
 Vimeo Link: https://vimeo.com/535797133/dbf6307075
@@ -61,7 +61,7 @@ Attendees:
 - Third dela Cruz
 - Ray Castor
 Agenda:
-  - Generic Comments View Controller and Likes View Controller classes
+- Generic Comments View Controller and Likes View Controller classes
 
 ## KT Session 8 04/15 - Essilor Part 4.1
 Vimeo Link: https://vimeo.com/538648707/489117ed0d
@@ -70,7 +70,7 @@ Attendees:
 - Third dela Cruz
 - Ray Castor
 Agenda:
-  - Auth View Controller class and how user is authenticated
+- Auth View Controller class and how user is authenticated
 
 ## KT Session 9 04/15 - Essilor Part 4.2
 Vimeo Link: https://vimeo.com/538650661/c176208b6f
@@ -79,4 +79,14 @@ Attendees:
 - Third dela Cruz
 - Ray Castor
 Agenda:
-  - Pushing the final sprint build to Essilor Azure repository
+- Pushing the final sprint build to Essilor Azure repository
+
+## KT Session 10 04/16 - Kronic Konnection Part 1
+Vimeo Link: https://vimeo.com/538655434/7218752cda
+Attendees:
+- John Patrick Teruel
+- Third dela Cruz
+- Orville Martinez
+- Benjamin Simbulan
+Agenda:
+- Discussion on how to start the project, plans on how to architecture the UI, how the tasks are going to be divided
