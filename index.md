@@ -112,7 +112,7 @@ Agenda:
 - Discussion on how to start the project, plans on how to architecture the UI, how the tasks are going to be divided
 
 ## KT Session 11 04/20 - FCM - iOS Integration
-Vimeo Link: 
+Vimeo Link: https://vimeo.com/539088556/e7e376128d
 
 Attendees:
 - John Patrick Teruel
