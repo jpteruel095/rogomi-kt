@@ -110,3 +110,14 @@ Attendees:
 
 Agenda:
 - Discussion on how to start the project, plans on how to architecture the UI, how the tasks are going to be divided
+
+## KT Session 11 04/20 - FCM - iOS Integration
+Vimeo Link: 
+
+Attendees:
+- John Patrick Teruel
+- Third dela Cruz
+- Ray Castor
+
+Agenda: 
+- Firebase Cloud Messaging - iOS Integration
