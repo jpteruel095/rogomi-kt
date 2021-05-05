@@ -133,4 +133,3 @@ Attendees:
 
 Agenda: 
 - Cignal Play API and AppSession
-- 
