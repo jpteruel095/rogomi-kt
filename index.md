@@ -112,7 +112,7 @@ Agenda:
 - Discussion on how to start the project, plans on how to architecture the UI, how the tasks are going to be divided
 
 ## KT Session 11 04/20 - FCM - iOS Integration
-Vimeo Link: https://vimeo.com/539088556/e7e376128d
+Vimeo Link: https://vimeo.com/545421317/075f3055b3
 
 Attendees:
 - John Patrick Teruel
@@ -121,3 +121,16 @@ Attendees:
 
 Agenda: 
 - Firebase Cloud Messaging - iOS Integration
+
+
+## KT Session 12 05/05 - Cignal Play Part 1
+Vimeo Link: https://vimeo.com/545418074/e0afd39aef
+
+Attendees:
+- John Patrick Teruel
+- Third dela Cruz
+- Ray Castor
+
+Agenda: 
+- Cignal Play API and AppSession
+- 
