@@ -1,8 +1,7 @@
 # Rogomi KT Sessions
 
 ## KT Session 1 03/29 - Arventa Connect Part 1
-Vimeo Link: https://vimeo.com/533838221/53d5162f18 
-
+Vimeo Link: https://vimeo.com/533838221
 Attendees:
 - John Patrick Teruel
 - Third dela Cruz
@@ -12,8 +11,7 @@ Agenda:
 - Arventa Connect Architecture
 
 ## KT Session 2 03/30 - Arventa Connect Part 2
-Vimeo Link: https://vimeo.com/533839291/b764911653 
-
+Vimeo Link: https://vimeo.com/533839291
 Attendees:
 - John Patrick Teruel
 - Third dela Cruz
@@ -23,8 +21,7 @@ Agenda:
 - Arventa Core Classes
 
 ## KT Session 3 03/31 - RGMLib Part 1
-Vimeo Link: https://vimeo.com/534644682/5a29d09cdd
-
+Vimeo Link: https://vimeo.com/534644682
 Attendees:
 - John Patrick Teruel
 - Third dela Cruz
@@ -34,8 +31,7 @@ Agenda:
   - RGM Lib - Source code introduction
 
 ## KT Session 4 04/05 - RGMLib Part 2
-Vimeo Link: https://vimeo.com/534646588/08d76fe687
-
+Vimeo Link: https://vimeo.com/534646588
 Attendees:
 - John Patrick Teruel
 - Third dela Cruz
@@ -45,8 +41,7 @@ Agenda:
   - RGM Lib - Source code discussion continuation
 
 ## KT Session 5 04/06 - Essilor Part 1
-Vimeo Link: https://vimeo.com/534648903/e5dee82a51
-
+Vimeo Link: https://vimeo.com/534648903
 Attendees:
 - John Patrick Teruel
 - Third dela Cruz
@@ -56,8 +51,7 @@ Agenda:
   - Essilor Source Code Core Introduction
 
 ## KT Session 6 04/07 - Essilor Part 2
-Vimeo Link: https://vimeo.com/534650280/e948ac8044
-
+Vimeo Link: https://vimeo.com/534650280
 Attendees:
 - John Patrick Teruel
 - Third dela Cruz
@@ -67,8 +61,7 @@ Agenda:
 - Essilor RGMLib Integration
 
 ## KT Session 7 04/12 - Essilor Part 3
-Vimeo Link: https://vimeo.com/535797133/dbf6307075
-
+Vimeo Link: https://vimeo.com/535797133
 Attendees:
 - John Patrick Teruel
 - Third dela Cruz
@@ -78,8 +71,7 @@ Agenda:
 - Generic Comments View Controller and Likes View Controller classes
 
 ## KT Session 8 04/15 - Essilor Part 4.1
-Vimeo Link: https://vimeo.com/538648707/489117ed0d
-
+Vimeo Link: https://vimeo.com/538648707
 Attendees:
 - John Patrick Teruel
 - Third dela Cruz
@@ -89,8 +81,7 @@ Agenda:
 - Auth View Controller class and how user is authenticated
 
 ## KT Session 9 04/15 - Essilor Part 4.2
-Vimeo Link: https://vimeo.com/538650661/c176208b6f
-
+Vimeo Link: https://vimeo.com/538650661
 Attendees:
 - John Patrick Teruel
 - Third dela Cruz
@@ -100,8 +91,7 @@ Agenda:
 - Pushing the final sprint build to Essilor Azure repository
 
 ## KT Session 10 04/16 - Kronic Konnection Part 1
-Vimeo Link: https://vimeo.com/538655434/7218752cda
-
+Vimeo Link: https://vimeo.com/538655434
 Attendees:
 - John Patrick Teruel
 - Third dela Cruz
@@ -112,8 +102,7 @@ Agenda:
 - Discussion on how to start the project, plans on how to architecture the UI, how the tasks are going to be divided
 
 ## KT Session 11 04/20 - FCM - iOS Integration
-Vimeo Link: https://vimeo.com/545421317/075f3055b3
-
+Vimeo Link: https://vimeo.com/545421317
 Attendees:
 - John Patrick Teruel
 - Third dela Cruz
@@ -124,8 +113,7 @@ Agenda:
 
 
 ## KT Session 12 05/05 - Cignal Play Part 1
-Vimeo Link: https://vimeo.com/545418074/e0afd39aef
-
+Vimeo Link: https://vimeo.com/545418074
 Attendees:
 - John Patrick Teruel
 - Third dela Cruz
